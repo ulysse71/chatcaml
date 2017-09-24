@@ -7,5 +7,5 @@ Start server on <server> wt command
 Start client wt command on any host
 ./chat client <server> 1025
 
-Langage Ocaml
+Language Ocaml
 
